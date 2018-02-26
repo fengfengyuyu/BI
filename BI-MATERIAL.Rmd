@@ -5,7 +5,6 @@ date: "2/26/2018"
 output: html_document
 ---
 
-## 2018-2-26 backup
 
 https://www.quandl.com/tools/r quandl，有一些数据
 
@@ -562,6 +561,27 @@ https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-
 https://www.jstatsoft.org/article/view/v077i13/v77i13.pdf 斯坦福的用shiny、opencpu做的分布式计算平台
 
 http://tsaftaris.com/preprints/Tsaftaris_CISE_CLOUD_2014.pdf python的云计算
+
+2018-2-26
+
+https://www.slideshare.net/GeorgHeiler/machine-learning-model-to-production 讨论了如何灵活性和生产性的一些方案，但是还不够好，还有点复杂、难，涉及到RKAFKA、不同类型用户、APP、kubernetes、pmml（对算法的支持并不充分）、cassandra、oracle（这两个都不错）
+
+http://www.cs.virginia.edu/~gs9ed/reports/mlaas.pdf 貌似saas可以做，实际上又不是
+
+https://community.qlik.com/docs/DOC-4383 看似可以的一个方案opencpu+R+Qlik
+
+https://github.com/onetapbeyond/opencpu-spark-executor Where Apache SparkR lets data scientists use Spark from R, ROSE is designed to let Scala and Java developers use R from Spark.貌似是这么回事，但事实又不是
+
+https://rpubs.com/MarkeD/r-opencpu-gtm-content-recommendation RaaS - R as a Service 这个提法不错
+
+https://www.r-bloggers.com/building-a-kafka-and-spark-streaming-pipeline-part-i/ kafka spark 
+
+http://dapengde.com/r4dummies 很重要
+
+https://yeasy.gitbooks.io/docker_practice/content/kubernetes/ yeasy神一样的人物，什么都做啊
+
+
+
 
 
 
