@@ -1,0 +1,570 @@
+---
+title: "BI"
+author: "冯羽"
+date: "2/26/2018"
+output: html_document
+---
+
+## 2018-2-26 backup
+
+https://www.quandl.com/tools/r quandl，有一些数据
+
+http://www.cnblogs.com/nxld/p/6060545.html 挺好的中文讲述shinyjs
+
+109-rendertable:描述了怎么隐藏head
+
+108-module-output : callModule的用法
+
+http://www.10tiao.com/html/406/201604/2247483663/1.html 介绍一些数据小窍门
+
+107-events:可以换颜色
+
+106-exclude:去除点，回归
+
+105-exclude-zoom:去除点，同图显示
+
+104-plot-select：显示详细信息
+
+103-plot-interaction：可以沿着X轴选择
+
+102-plot-interaction：可以减少显示数据
+
+101-plot-interaction：可以分屏显示数据
+
+100-plot-interaction：如果用普通plot，得标识出x和y
+
+https://deanattali.com/shinyjs/advanced  #Including shinyjs in different types of apps
+
+http://vcla.stat.ucla.edu/old/MCMC/MCMC_tutorial/Lect2_Basic_MCMC.pdf MCMC说明
+
+http://varianceexplained.org/r/stacksurveyr/ stackoverflow工程师，学习之
+
+2018-1-3
+
+https://github.com/plotly/falcon-sql-client sql直接用来BI
+
+https://moderndata.plot.ly/graph-data-from-mysql-database-in-python/ 用plotly+mysql+BI
+
+https://plot.ly/dash/gallery/ dash很厉害，但是是python的，但是要收钱，排在下期
+
+https://mran.microsoft.com/web/packages/fivethirtyeight/vignettes/bechdel.html 这个数据集非常好
+
+http://www.rdatamining.com/examples/other 很全貌的R资料
+
+http://rpubs.com/Victorp/billboarder_examples 这个说什么都得记下来
+
+http://mc-stan.org/users/interfaces/shinystan 居然还有shiny版的stan
+
+https://bost.ocks.org/mike/nations/ 这个不错，世界健康支出和预期寿命的关系
+
+https://bl.ocks.org/mbostock 不错
+
+https://github.com/dreamRs/billboarder billboarder可以看看
+
+2018-1-4 TMD得动手做BI
+
+先试试能不能用markdown？
+
+https://stackoverflow.com/questions/43784110/flexdashboard-storyboard-true-not-working-when-runtime-shiny-added 这个非常重要，对故事排版而言
+
+https://plot.ly/r/shiny-coupled-hover-events/ 这个看看要不要放在励志集
+
+https://plot.ly/r/datatable/ 这个帅到爆
+
+https://plot.ly/r/plotlyproxy/ 这个很好玩，但是他们不见得喜欢
+
+https://plot.ly/r/shinyapp-UN-advanced/ 好玩，但有点不太好
+
+https://plot.ly/r/shinyapp-map-click/ 地图应用，中国地图嗯
+
+http://enhancedatascience.com/2017/10/24/machine-learning-explained-kmeans/ 这里面有很多好东西
+
+https://daattali.com/shiny/shinyjs-basic/ shinyjs，很好
+
+这是你需要的图吗？
+
+也许是吧，我看看吧
+
+你是领导，你说得算
+
+我上头还有领导，我说得不算
+
+你说得不算，那各回各家
+
+Fighting in Honebay
+
+人生短暂，何不奋力一搏，人生漫长，平庸度日，咖啡 美女 吃货
+
+故事集
+
+2016 卖红酒最多的欧盟国家TOP10
+喝红酒最多的国家TOP 10
+欧盟最能喝排行榜 法国红酒1956～2016进出口情况 意大利、西班牙、法国高端红酒的生产情况
+
+励志集 入门集  放弃集  绝不放弃集
+
+2018-1-5
+
+https://rpubs.com/jasdumas/pdx-shinylp shinyLP 新发现，看起来相当好
+
+https://jasdumas.github.io/2017-10-26-not-mustard-web-app/ 有才华啊
+
+http://markedmondson.me/ 牛人
+
+https://www.r-bloggers.com/r-shiny-leaflet-using-observers/ 记下来
+
+https://taichimd.us/mediawiki/index.php/R 膜拜
+
+https://bookdown.org/yihui/bookdown/bookdown.pdf 益辉的书同样膜拜
+
+http://www.htmlwidgets.org/showcase_plotly.html 组件
+
+http://slides.com/hafen/trelliscopejs#/ 很强大
+
+http://ml.stat.purdue.edu/user2015/Tessera-aalborg-slides.html 一种基于R的大数据分析工具
+
+http://deltarho.org/#references 这个找时间，真得好好想想先
+
+http://ryanhafen.com/#publications 今天最强人物
+
+https://www.gapminder.org/tools/#_chart-type=barrank 太先进了
+
+https://rud.is/b/2015/05/26/a-quick-incomplete-comparison-of-ggplot2-rbokeh-plotting-idioms/ ggplot2和rbokeh的比较
+
+http://slides.com/hafen/rbokeh rbokeh的方案
+
+http://rpubs.com/dnchari/rcharts rcharts
+
+http://ramnathv.github.io/user2014-rcharts/#13 里面地图非常好
+
+https://www.anaconda.com/blog/developer-blog/plotting-maps-rbokeh/ 地图服务非常好
+
+https://github.com/timelyportfolio/rcdimple 貌似要看看
+
+2018-1-6
+
+https://github.com/jminnier/STARTapp 生物领域的应用，但是我下载下来应用很不成功
+
+https://www.r-bloggers.com/announcing-opencpu-2-0-building-and-deploying-scalable-r-apps-and-services/ opencpu，很强大的工具！
+
+https://github.com/rstudio/sparklyr/blob/master/vignettes/guides-textmining.md 非常丰富的内容
+
+https://github.com/drenn2/WDI_Shiny/tree/master/WDI_Shiny 虽然有用，但与我无关，rstudio的CTO写的
+
+http://drcnet.jskjwx.org/Web/t10.aspx?chnid=1016&flag=0&leafid=32 国研网数据
+
+https://github.com/davesteps/machLearn 简单的机器学习平台
+
+https://github.com/aguimaraesduarte/WorldBank-Shiny 世界银行农业案例
+
+https://nycdatascience.com/blog/student-works/world-development-indicator-explorer-shiny/ 世界银行比较完整案例
+
+https://github.com/nycdatasci/bootcamp004_project/blob/master/Project2-Shiny/aravind/worldbankshiny.R 上例的代码
+
+
+2018-1-7
+
+
+时间序列的气泡图 选择相应的选项 选择区域
+
+plotlyr有个问题就是，台湾地图问题，其他还好
+
+echarts非常好，但怎么弄进去BI,还要想办法
+
+http://dy.163.com/v2/article/detail/D0IELFLS0511HSJK.html 怎么在shiny里加登录界面，看到过这个哥们
+
+https://www.r-bloggers.com/using-htmlwidgets-with-knitr-and-jekyll/ 这个可以
+
+https://github.com/ox-it/OxfordIDN_Shiny-App-Templates 你好，神人
+
+SP.DYN.LE00.IN “平均寿命” ; NY.GDP.PCAP.CD “人均GDP”; SP.DYN.TFRT.IN “生育率”；SP.POP.TOTL “总人口”
+
+2018-1-8
+
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Bar%20Chart 很多很多图
+
+http://pages.vassar.edu/jutouchon/files/2016/09/Module-6-STRI-Advanced-Plotting-2016.pdf 来不及用啊，非常好，都不知有没有人用
+
+https://stackoverflow.com/questions/25340847/control-the-height-in-fluidrow-in-r-shiny 布局，但是我估计我用不上
+
+https://stackoverflow.com/questions/36451484/how-to-combine-row-and-column-layout-in-flexdashboard 很有用，没看懂
+
+www.enhgo.com/search/ggplot theme 样式集合
+
+http://lenkiefer.com/2017/01/22/a-guide-to-building-an-interactive-flexdashboard/ 这个还不错
+
+http://www.sthda.com/english/rpkgs/ggpubr/ 自动排图工具，不好使
+
+2018-1-9
+
+https://stackoverflow.com/questions/33266157/how-to-add-more-whitespace-to-the-main-panel-in-shiny-dashboard
+
+https://stackoverflow.com/questions/27006699/creating-asymmetric-layouts-involving-rows-and-column-in-shiny 解决大问题啊*
+
+https://cran.r-project.org/web/packages/ggthemes/vignettes/ggthemes.html 明天得靠这个换颜色
+
+2018-1-10
+www.richardtwatson.com/dm6e/Reader/slides/pptx/chapt18.pptx 这篇文章极好！可以尝试用一下
+
+https://rpubs.com/redrobincl/321857 global.R的作用
+
+https://ibiostat.be/seminar/uploads/introdcution-r-shiny-package-20160330.pdf 不错
+
+2018-1-11
+https://matthewdharris.com/2017/11/27/a-more-reproducible-research-with-the-liftr-package-for-r/ 有关dockerR的用法
+
+https://github.com/mages/googleVis 工具虽好，可是是
+
+http://www.statsblogs.com/2014/02/06/protected-online-r-and-plotly-graphs-canadian-and-u-s-maps-old-faithful-with-multiple-axes-overlaid-histograms/
+
+https://rpubs.com/kanedglsk/235747 这里有个飞机的球
+
+逾期金额、风险数目、违规数目、逾期率
+
+信息 家具南海 modprobe vboxdrv
+
+折线：变化率 交易金额 1万元以下 1万～5万 5万～10万 10万～20万 20万～25万 25万以上 万元 笔数 达到 整改 千笔 正常、关注、次级、可疑、损失 风险警告
+
+2018-1-12
+
+https://bookdown.org/paulcbauer/idv2/7-19-legends.html 如何调整legend
+
+https://github.com/plotly/plotly.js/pull/419 如何固定legend标签
+
+http://www-stat.wharton.upenn.edu/~maolson/docs/JOUS.pdf 一个加速了的adaboost
+
+http://xxuan.me/2017-03-24-adaboost.html 不错哦adaboost
+
+https://plot.ly/scikit-learn/plot-adaboost-regression/ plotly r 也来凑热闹
+
+http://cccober.cn/2015/11/13/Adaboost%E7%9A%84python%E5%92%8CR%E8%AF%AD%E8%A8%80%E7%9A%84%E5%AE%9E%E7%8E%B0/ r和python实现adaboost，但不是特别好
+
+2018-1-13
+
+https://shiny.rstudio.com/articles/shiny-server.html 怎么加登录界面
+
+2018-1-14
+
+缺失数据处理可以等到建模时在启动;
+
+https://shiny.rstudio.com/articles/overview.html 输入数字控制表格长度
+
+https://shiny.rstudio.com/articles/sql-injections.html 防止注入攻击，例子是查询ID1 ID2 ID3
+
+https://shiny.rstudio.com/articles/pool-basics.html 显示柱图的控制
+
+https://nycdatascience.com/blog/student-works/gapminder-data-visualization-using-googlevis-and-r/ 比较酷，但是不答
+
+http://staff.math.su.se/hoehle/blog/2016/08/21/gapMedal.html 同上
+
+https://www.zhihu.com/people/li-mu-23/activities 没事多看看
+
+https://www.the-modeling-agency.com/crisp-dm.pdf SPSS 数据挖掘标准 供参考
+
+2018-1-15
+
+https://rstudio.stat.washington.edu/shiny/wppExplorer/inst/explore/ 这个很有用，地图
+
+https://rstudio.stat.washington.edu/shiny/wppExplorer/inst/explore/
+
+https://gallery.shinyapps.io/UNCCC2/ markdown
+
+https://github.com/jcheng5/bubbles/blob/master/inst/htmlwidgets/lib/d3/CONTRIBUTING.md 学习下cto怎么样做包
+
+http://gallery.echartsjs.com/editor.html?c=xSyKKAw97l 这个很酷啊
+
+2018-1-16
+
+echarts 学不会啊
+
+https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/ shiny和javascript合起来，太难了
+
+https://www.aridhia.com/blog/the-sky-is-not-the-limit-embedding-raw-html-and-javascript-to-create-dynamic-ui-elements-in-shiny-applications/ 这个不错
+
+https://shivathudi.com/2017/04/30/interactive-visualizations-using-d3-js-and-d3-wrappers-in-shiny/ 这个蛮不错
+
+2018-1-18
+
+https://stackoverflow.com/questions/23604378/how-do-i-split-a-number-randomly-into-multiple-numbers-given-the-number-and-n-gr 把一个整数分解多个整数
+
+https://cloud.tencent.com/developer/article/1010700 leafletCN例子，最困难的是不要渲染地图，目前做不到啊
+
+2018-1-19
+
+https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf 做地图
+
+http://www.kevjohnson.org/making-maps-in-r/ 还是做地图
+
+http://www.molecularecologist.com/2012/09/making-maps-with-r/ 还是地图
+
+https://www.computerworld.com/article/3038270/data-analytics/create-maps-in-r-in-10-fairly-easy-steps.html?page=3 地图
+
+http://www.analysen.no/latest-news/regular-news/item/how-to-create-your-own-maps-in-r 地图
+
+http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html 地图
+
+https://earthdatascience.org/courses/earth-analytics/get-data-using-apis/leaflet-r/ 地图
+
+2018-1-21
+
+https://forum.openoffice.org/en/forum/viewtopic.php?t=1532 怎么修复文档
+
+https://docs.google.com/presentation/d/1XyBrIA97ZWIkm8NICAyWHo4J9hj_i2-mJmKEq_CR2A8/edit#slide=id.g1052a0a8c9_0_41 讲 shinyjs ,非常好
+
+http://www.ggobi.org/book/2007-infovis/04-classification.pdf ggobi装不上啊
+
+https://bitbucket.org/kayontoga/rattle/src/e48d247d77d735441dc59656c9e32bafa2e2c9ca/R/data.R?at=master&fileviewer=file-view-default rattle的托管处
+
+https://deanattali.com/shinyjs/advanced shinyjs的作者是牛蒡啊
+
+https://github.com/ua-snap/shiny-apps 这个更牛蒡
+
+2018-1-22
+
+https://stackoverflow.com/questions/36836473/r-shiny-download-filtrered-datatables-dt  下载DT FILTER
+
+2018-1-24
+
+https://zhuanlan.zhihu.com/p/20883944 spakrR and shiny
+
+https://deanattali.com/blog/advanced-shiny-tips/ 很高级的技巧
+
+https://groups.google.com/forum/#!topic/shiny-discuss/A-eG6Birr0s 真有牛人解决了With spinner: 不是所有的is.character(txt)都是TRUE
+
+https://stackoverflow.com/questions/24192570/caching-plots-in-r-shiny 加速shiny app，digest
+
+2018-1-25
+
+http://code.markedmondson.me/googleAnalyticsR/shiny.html google的R专家（https://github.com/MarkEdmondson1234）
+
+https://zhuanlan.zhihu.com/p/30378213 pmml，比较专业
+
+https://github.com/lawremi/RGtk2/tree/master/books/rgui 有本书的
+
+https://cran.r-project.org/web/packages/gWidgets/vignettes/gWidgets.pdf GUI 再说吧
+
+http://www.ecu.edu/cs-cas/physics/ancient-timeline/upload/ATL_34-2_Burow_p22-32.pdf 找到一个很好的shiny应用，我所需要的，必须帮大忙的，感觉也不行
+
+https://cran.r-project.org/web/packages/Luminescence/Luminescence.pdf 似乎很牛X的样子
+
+http://rlum.geographie.uni-koeln.de:3838/LED2017-RLumShiny/Presentation/ 不是一般的牛X
+
+2016-1-26
+
+https://github.com/thirdwing/mxnet_shiny/blob/master/server.R 图片识别shiny，R各位大神倾力而为
+
+https://www.shinyproxy.io/downloads/ 这个不错，替代shiny
+
+2018-1-27
+
+http://www.sciviews.org/recipes/tcltk/TclTk-cursors/ TCLTK用法
+
+softmax glove fastext word2rec
+
+https://rpubs.com/ww44ss/glove300d 如何用glove模型，至少知道怎么导入模型了
+
+https://github.com/maciejkula/glove-python 也是直接导入模型
+
+https://keras.rstudio.com/articles/examples/pretrained_word_embeddings.html 这个真好
+
+https://www.r-bloggers.com/experiments-on-english-wikipedia-glove-and-word2vec/ 是个好工具，但是不知道为什么不引入预训练模型
+
+https://github.com/mli/gluon-tutorials-zh/blob/master/chapter_natural-language-processing/pretrained-embedding.md 
+
+2018-1-29
+
+http://rstudio-pubs-static.s3.amazonaws.com/12422_b2b48bb2da7942acaca5ace45bd8c60c.html text analysis
+
+https://uploads.cosx.org/2011/11/ChinaR2011_SH_Nov12_05_szl.pdf 刘思吉吉关于Rweka，他并不看好
+
+https://github.com/daattali/shiny-server 要学习下
+
+https://github.com/mlr-org/shinyMlr 解决大问题啊
+
+http://johnny-five.io/articles/ 这个太好玩了！
+
+http://www.instructables.com/id/Build-Your-Own-AI-Artificial-Intelligence-Assistan/ 语音助手，这个就太难了
+
+
+2018-1-30
+
+https://www.phpbb.com/about/ 公告栏项目
+
+R -e "shiny::runApp('/home/a/EGU2017-PICO')" 启动shiny项目的快捷方式，不用重启
+
+2018-1-37
+
+https://www.reddit.com/r/learnpython/comments/43a5j3/should_i_switch_to_r_is_there_a_python_equivalent/ 我想看看shiny是否可以调用python，D3js等
+
+https://community.rstudio.com/t/iframe-shiny-apps-to-wordpress/962/2 有时间再仔细看看，嵌入的问题
+
+http://www.rpubs.com/zacharyheilyn/iframe-embedded-shiny-app 应用嵌入
+
+http://dlukes.github.io/responsive-iframe.html 嵌入
+
+http://fontawesome.io/icons/ icon图标
+
+http://nickstrayer.me/dataDayTexas/#33 r keras embed shiny 不咋地
+
+https://mariadb.com/kb/en/library/r-statistical-programming-using-mariadb-as-the-background-database/ R与数据库通信
+
+https://qiita.com/masaki_kubota/items/90bd06fc93e3a734c717 小哥很猛
+
+2018-2-1
+
+https://ci.apache.org/projects/flink/flink-docs-release-1.3/examples/ 有时间看看flink
+
+2018-2-5
+
+https://workshops.cpsievert.me/20180303/ 大神的工作，闲时看看
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04 安装anaconda要用到sha256sum这个东东
+
+https://github.com/cloudera/livy livy,spark sql 数据后台
+
+https://github.com/spark-jobserver/spark-jobserver/blob/master/doc/chinese/job-server.md 数据后台
+
+https://github.com/jadianes/spark-py-notebooks 数据后台
+
+https://github.com/jadianes/spark-r-notebooks sparkR和notebook
+
+https://github.com/perwendel/spark spark 和java 前端
+
+http://cfss.uchicago.edu/distrib003_spark.html sparklyr 
+
+https://github.com/rstudio/sparklyr/issues/270 连接sparklyr和mysql
+
+https://yq.aliyun.com/articles/353106 livy
+
+http://www.rpubs.com/williamsurles/292547 sparklyr mysql
+
+https://www.codementor.io/jadianes/building-a-web-service-with-apache-spark-flask-example-app-part2-du1083854 这个明天看一下
+
+http://www.bjt.name/2017/04/opencpu-application opencpu 刘思吉吉 国产大神 style 不错
+
+https://github.com/Microsoft/js-client-library/releases 微软的产品，但是。。有时间还是要看一下
+
+
+https://www.sencha.com/products/extjs/#overview    ExtJS
+
+2018-2-7
+
+http://engolden61.rssing.com/chan-44136762/all_p1.html 刘思吉吉写ppt 
+
+http://www.bjt.name/2017/05/fiery-http-server 另外一个opencpu
+
+2018-2-8
+
+https://stackoverflow.com/questions/4090169/elegant-way-to-check-for-missing-packages-and-install-them 怎样优雅的安装r包
+
+https://support.rstudio.com/hc/en-us/community/posts/202190728-install-rstudio-server-error?page=1#community_comment_213178427 阻止app-armor启动
+
+https://github.com/yeasy/docker_practice/wiki/%E4%B8%8B%E8%BD%BD 还是有很大差距的
+
+http://bihell.com/2016/10/08/rhive-installation/ Rhive
+
+http://predictiveecology.org/2015/12/08/R-Web-App-Development-Deployment-Distribution.html opencpu部署私有服务器 
+
+https://medium.com/@ggruic/simple-tools-for-creating-websites-with-reproducible-research-capabilities-277e78e30ef0 opencpu
+
+https://jeroen.github.io/opencpu-slides/
+
+https://cloudyr.github.io/googleComputeEngineR/articles/opencpu-api-server.html google opencpu 明天看看
+
+https://www.r-bloggers.com/deploying-desktop-apps-with-r/ 
+
+2018-2-9
+
+https://github.com/alsotang/node-lessons/tree/master/lesson6 以后爬从就靠它了
+
+http://square.github.io/crossfilter/ 这个可能用到，貌似很先进
+
+http://bl.ocks.org/milroc/raw/6316349/#68 很多前端框架可以在client-side操作数据，而且还不慢
+
+https://www.xuanfengge.com/why-v8-so-fast.html 讲解V8
+
+2018-2-11
+
+http://www.xueqing.tv/cms/article/198 可以看看
+
+http://www.cnblogs.com/awishfullyway/p/6485185.html 这个整理能力很强
+
+https://www.mango-solutions.com/blog/production-r-at-ons 整个技术路线，惊人的相似啊
+
+http://yalei.name/2017/06/nginx 这个很好
+
+http://uribo.hatenablog.com/entry/2016/03/12/213000 日版plumber，还不错
+
+https://code.i-harness.com/zh-CN/q/1cbeb14 提到deployR
+
+https://www.computerworld.com/article/3171766/application-development/how-to-create-your-own-slack-bots-and-web-apis-in-r.html?page=2 plumber
+
+https://www.rplumber.io/docs/index.html#web-apis plumber
+
+https://stackoverflow.com/questions/44676616/basic-questions-about-r-plumber plumber
+
+https://segmentfault.com/a/1190000008580737
+
+http://code.markedmondson.me/predictClickOpenCPU/ opencpu
+
+https://github.com/jeroen/v8 V8
+
+https://github.com/rstudio/pool 看看
+
+https://tech.yandex.com/catboost/doc/dg/concepts/about-docpage/ 很帅的包 catboost
+
+https://www.sciencedirect.com/science/article/pii/S2352711017300110 R爬虫包，有时间要看看，已下载
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171784#sec023 
+
+https://github.com/MarkEdmondson1234/I_LOVE_IKEA_SHINY_APP 宜家图像识别，很厉害
+
+https://blog.rstudio.com/2014/01/17/introducing-dplyr/ 大神提到一点点opencpu
+
+http://coffeescript.org/ 有机会看看吧
+
+http://www.jenunderwood.com/2015/01/12/part-1-integrating-r/ 稍微总结了下
+
+https://www.npmjs.com/package/r-script js的一个包，一般般
+
+https://www.ae.be/blog-en/combining-the-power-of-r-and-d3-js/ 一般般
+
+https://github.com/nachocab/clickme 一般般
+
+https://trestletech.com/2015/06/rapier-convert-r-code-to-a-web-api/ 一般般，都不考虑什么时候接服务，什么时候停
+
+https://deanattali.com/blog/htmlwidgets-tips/ 这个倒是值得看看
+
+https://cran.r-project.org/web/packages/V8/vignettes/v8_intro.html V8主要用来调用js的包
+
+http://blog.revolutionanalytics.com/2014/08/using-r-inside-the-enterprise-integration-with-existing-systems.html 有时间再看吧
+
+https://github.com/elijah/r-node 这个8年前就不维护了，算球吧
+
+https://cran.r-project.org/web/packages/V8/vignettes/npm.html 介绍了一个工具，但不知道怎么用，算球
+
+https://www.r-bloggers.com/pool-package-on-cran/ pool这个工具还不错
+
+http://code.markedmondson.me/googleAnalyticsR/shiny.html 不知道谷歌的分析工具到底怎么样
+
+http://code.markedmondson.me/predictClickOpenCPU/supercharge.html#26 这个很好，很厉害
+
+https://raybuhr.github.io/2017/10/making-predictions-over-http/ 有时间看看
+
+明天说什么都要用Opencpu做个案例，必须给大家点信心。 2018-2-12
+
+2018-2-13
+
+find / -type f -name "*.R" | xargs grep "10.0.0.10" 按文件内容找文件，root权限下
+
+https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/ 机器学习平台 kafka
+
+https://www.jstatsoft.org/article/view/v077i13/v77i13.pdf 斯坦福的用shiny、opencpu做的分布式计算平台
+
+http://tsaftaris.com/preprints/Tsaftaris_CISE_CLOUD_2014.pdf python的云计算
+
+
+
+
+
+
