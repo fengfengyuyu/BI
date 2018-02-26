@@ -580,6 +580,10 @@ http://dapengde.com/r4dummies 很重要
 
 https://yeasy.gitbooks.io/docker_practice/content/kubernetes/ yeasy神一样的人物，什么都做啊
 
+https://zh.hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/section/1/ 这个有时间真的要看看
+
+https://www.ctolib.com/docs-apache-hive-tutorial-c-143259.html hive
+
 
 
 
