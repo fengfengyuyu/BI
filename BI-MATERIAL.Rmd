@@ -608,7 +608,7 @@ https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html 这个
 
 https://www.knowru.com/blog/how-create-restful-api-for-machine-learning-credit-model-in-r/ 这个用plumber作为api
 
-
+http://happygitwithr.com/ssh-keys.html 怎么设置git
 
 
 
