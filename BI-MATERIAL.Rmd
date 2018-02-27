@@ -580,9 +580,9 @@ http://dapengde.com/r4dummies 很重要
 
 https://yeasy.gitbooks.io/docker_practice/content/kubernetes/ yeasy神一样的人物，什么都做啊
 
+https://slides.yihui.name/2017-blogdown-CGM-Yihui-Xie.html blogdown
 
-
-
+https://slides.yihui.name/xaringan/zh-CN.html 写轮眼
 
 
 
