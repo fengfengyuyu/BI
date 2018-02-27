@@ -576,20 +576,40 @@ https://rpubs.com/MarkeD/r-opencpu-gtm-content-recommendation RaaS - R as a Serv
 
 https://www.r-bloggers.com/building-a-kafka-and-spark-streaming-pipeline-part-i/ kafka spark 
 
-http://dapengde.com/r4dummies 很重要
+http://dapengde.com/r4dummies 很重要，大鹏志
 
 https://yeasy.gitbooks.io/docker_practice/content/kubernetes/ yeasy神一样的人物，什么都做啊
 
-<<<<<<< HEAD
 https://slides.yihui.name/2017-blogdown-CGM-Yihui-Xie.html blogdown
-=======
+
 https://zh.hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/section/1/ 这个有时间真的要看看
 
 https://www.ctolib.com/docs-apache-hive-tutorial-c-143259.html hive
 
->>>>>>> 8e8a30d63226f339bd636f230d4e35fa03647615
-
 https://slides.yihui.name/xaringan/zh-CN.html 写轮眼
+
+2018-2-27
+
+https://github.com/thoschm/START-Summit-2017-Blockchain-Machine-Learning-Workshop 区块链、keras、tensorflow、以太坊，什么都放在一起了
+
+https://github.com/NVIDIA/nvidia-docker GPU都有docker版，实在是太好了，但是没pull下来
+
+https://www.cc.gatech.edu/~hpark/papers/2013_tvcg_utopian.pdf 找到了smallk，不是我需要的，关于汽车评论那个可以搞一下
+
+https://stackoverflow.com/questions/38079580/building-restful-api-using-r 用R建api
+
+http://api.rpubs.com/JanpuHou/300168 NFM r package
+
+https://cran.r-project.org/web/packages/NMF/vignettes/NMF-vignette.pdf NFM
+
+https://cran.r-project.org/web/packages/tidytext/vignettes/topic_modeling.html 这个topic modeling 比较完整
+
+https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html 这个不错，但是没有从TWITTER上下载数据,要想办法从Edmunds.com下载车辆评论数据，就这么做
+
+https://www.knowru.com/blog/how-create-restful-api-for-machine-learning-credit-model-in-r/ 这个用plumber作为api
+
+
+
 
 
 
