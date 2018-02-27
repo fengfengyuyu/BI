@@ -580,7 +580,14 @@ http://dapengde.com/r4dummies 很重要
 
 https://yeasy.gitbooks.io/docker_practice/content/kubernetes/ yeasy神一样的人物，什么都做啊
 
+<<<<<<< HEAD
 https://slides.yihui.name/2017-blogdown-CGM-Yihui-Xie.html blogdown
+=======
+https://zh.hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/section/1/ 这个有时间真的要看看
+
+https://www.ctolib.com/docs-apache-hive-tutorial-c-143259.html hive
+
+>>>>>>> 8e8a30d63226f339bd636f230d4e35fa03647615
 
 https://slides.yihui.name/xaringan/zh-CN.html 写轮眼
 
