@@ -610,6 +610,27 @@ https://www.knowru.com/blog/how-create-restful-api-for-machine-learning-credit-m
 
 http://happygitwithr.com/ssh-keys.html 怎么设置git
 
+2018-2-28
+
+翻了一早上墙，坑爹啊，连不上nytimes数据啊，这还让人做不做数据分析师啊
+
+http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html 用unix做数据分析，cool！
+
+https://n3xtchen.github.io/n3xtchen/data_analytics/2014/10/30/data-science-at-the-command-a-real-world-use-case cool!用命令行分析数据
+
+https://www.datascienceatthecommandline.com/chapter-3-obtaining-data.html 上面涉及的一本书，没时间哈，已下载docker
+
+http://rjournal.github.io/archive/2017-1/RJ-2017-1.pdf 已下载
+
+http://rpubs.com/jsmanij/131030 Converting from Data in Unstructured format into Structured Format (i.e., *.csv) using XML, plyr packages
+
+https://cran.r-project.org/web/packages/rio/vignettes/rio.html rio用法
+
+https://stackoverflow.com/questions/11392478/how-to-replace-a-string-in-multiple-files-in-linux-command-line 这个蛮重要，如何替换字符
+
+sed -i 's/&//g' 2007_* 把文件夹里所有的&删除
+
+find . -type f -exec mv '{}' '{}'.xml \; 把文件夹里所有的文件添加.xml
 
 
 
