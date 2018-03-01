@@ -632,6 +632,20 @@ sed -i 's/&//g' 2007_* 把文件夹里所有的&删除
 
 find . -type f -exec mv '{}' '{}'.xml \; 把文件夹里所有的文件添加.xml
 
+2018-3-1
+
+https://csgillespie.github.io/efficientR/workflow.html 高效编程
+
+https://github.com/Factual/drake 工作流
+
+怎么处理路径还是个问题，要问下高手,.bashrc更改，差点把系统弄挂了！
+
+我试了下unix工具处理数据，还是有点困难！
+
+我想把数据预处理的工具交给bash，但是有点难
+
+
+
 
 
 
