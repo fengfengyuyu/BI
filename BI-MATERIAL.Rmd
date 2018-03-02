@@ -644,6 +644,20 @@ https://github.com/Factual/drake 工作流
 
 我想把数据预处理的工具交给bash，但是有点难
 
+2018-3-2
+
+http://linux.vbird.org/linux_basic/0330regularex/awk.pdf 鸟叔关于awk的文档，已下载
+
+grep -e \<TEXT\> 2007_* | sed 's/<[^>]*>//g' >> cc2.csv 最后用这句提取了评论数据，但是不够好！！！
+
+https://stackoverflow.com/questions/29627850/awk-parse-xml-to-csv 上面的作法，没办法做成大表
+
+
+
+
+
+
+
 
 
 
