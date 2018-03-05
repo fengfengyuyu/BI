@@ -1,0 +1,12 @@
+for d in 2007_*;do grep -e \<DATE\> -e \<AUTHOR\> -e \<TEXT\> $d | sed 's/<[^>]*>//g' | paste -d ";" - - - >> ks.csv;done
+
+
+grep -e \<DATE\> -e \<AUTHOR\> -e \<TEXT\> ab.xml | sed 's/<[^>]*>//g' | awk '{ print $1 }' | paste -d ";" - - - 
+
+
+
+
+grep -e \<DATE\> -e \<AUTHOR\> -e \<TEXT\> 2007_acura_rdx | sed 's/<[^>]*>//g' | awk '{ print $0 }' | paste -d ";" - - -
+
+grep -e \<DOCNO\> -e \<DATE\> -e \<AUTHOR\> -e \<TEXT\> 2007_* | sed 's/<[^>]*>//g' | awk '{ print $0 }' | paste -d ";" ->> cc.csv
+

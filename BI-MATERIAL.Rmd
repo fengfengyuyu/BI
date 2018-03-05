@@ -652,6 +652,37 @@ grep -e \<TEXT\> 2007_* | sed 's/<[^>]*>//g' >> cc2.csv 最后用这句提取了
 
 https://stackoverflow.com/questions/29627850/awk-parse-xml-to-csv 上面的作法，没办法做成大表
 
+2018-3-5
+
+https://github.com/jehiah/json2csv 像大神学习，什么时候我的GIT也那么有内容啊
+
+https://speakerdeck.com/bmabey/visualizing-topic-models 可视化LDA，PDF已下载
+
+http://www.jamesbowman.me/post/semantic-analysis-of-webpages-with-machine-learning-in-go/ TFIDTF、LSA很重要
+
+https://github.com/avelino/awesome-go#natural-language-processing go语言工具
+
+https://iromin.files.wordpress.com/2016/01/golanguagestudycourse.pdf go语言学习资料
+
+http://www.datadan.io/ GO，有点内容
+
+https://github.com/apache/incubator-airflow data pipe 但是是ptyhon的
+
+https://github.com/gertstulp/ggplotgui 有时间再看吧
+
+http://users.cecs.anu.edu.au/~dkamen/phdMonitoring1.pdf 虽然是2006年的文章，但仍然能看到这些年发展的趋势
+
+https://github.com/cpsievert/LDAvis 这个LDA的可视化很好很好，解决大问题啊
+
+https://speakerdeck.com/bmabey/visualizing-topic-models 上面的介绍性文档
+
+https://project.dke.maastrichtuniversity.nl/studentprojects/wp-content/uploads/2016/07/Final-Report-Topic-Detection-and-Tracking-System-Group-5.pdf 用java实现的LDA可视化，比较复杂哈
+
+https://rpubs.com/abdulazizasz/231030 比较完整，但是没有LDAvis漂亮
+
+http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb#topic=0&lambda=1&term= pyLDAvis的解释文档，好像更全面一些
+
+
 
 
 
