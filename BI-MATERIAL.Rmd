@@ -682,6 +682,18 @@ https://rpubs.com/abdulazizasz/231030 比较完整，但是没有LDAvis漂亮
 
 http://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb#topic=0&lambda=1&term= pyLDAvis的解释文档，好像更全面一些
 
+2018-3-6
+
+https://ldavis.cpsievert.me/reviews/reviews.html 完整的LDA和可视化文章
+
+http://www.bjt.name/2016/09/document-term-matrix 谢益辉评价了sapply lapply vapply
+
+https://github.com/alco/gostart GO学习网站
+
+今天把2007-acura-mdx分析了一下，还是蛮好的！
+
+
+
 
 
 
