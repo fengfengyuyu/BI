@@ -118,11 +118,13 @@ https://bookdown.org/yihui/bookdown/bookdown.pdf 益辉的书同样膜拜
 
 http://www.htmlwidgets.org/showcase_plotly.html 组件
 
-http://slides.com/hafen/trelliscopejs#/ 很强大
+http://slides.com/hafen/trelliscopejs#/ 很强大，3月7日又重温了一下，该工具很强大，已安装
 
 http://ml.stat.purdue.edu/user2015/Tessera-aalborg-slides.html 一种基于R的大数据分析工具
 
-http://deltarho.org/#references 这个找时间，真得好好想想先
+http://deltarho.org/#references 这个找时间，真得好好想想先。3月7日，又看了一下，太强大了！解决大数据的方案，hadoop和R连接起来必须走起，但是我遇到了安装虚拟机问题，恨机器太少啊！
+
+https://askubuntu.com/questions/900118/vboxdrv-sh-failed-modprobe-vboxdrv-failed-please-use-dmesg-to-find-out-why 3月7日，我大概准备用这个贴修复虚拟机问题，但愿人长久吧！
 
 http://ryanhafen.com/#publications 今天最强人物
 
@@ -664,7 +666,7 @@ https://github.com/avelino/awesome-go#natural-language-processing go语言工具
 
 https://iromin.files.wordpress.com/2016/01/golanguagestudycourse.pdf go语言学习资料
 
-http://www.datadan.io/ GO，有点内容
+http://www.datadan.io/ GO，有点内容,发了邮件，他居然回我了，两年前的帖子了，哈，他推荐Pachyderm
 
 https://github.com/apache/incubator-airflow data pipe 但是是ptyhon的
 
